@@ -7,9 +7,9 @@
   <br/>
 </div>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://i.pinimg.com/736x/9a/bf/9f/9abf9f12d20738e04f61ba0d24addf7e.jpg" alt="Version" height="300">
-    <img src="https://i.pinimg.com/736x/f6/27/74/f627742ee4bb8c30f4fcce900a26ed28.jpg" alt="License" height="300">
-    <img src="https://i.pinimg.com/736x/73/75/89/7375890e8632e5d0a07bf8436d6ee567.jpg" alt="Status" height="300">
+    <img src="https://i.pinimg.com/736x/9a/bf/9f/9abf9f12d20738e04f61ba0d24addf7e.jpg" alt="Version" height="250">
+    <img src="https://i.pinimg.com/736x/f6/27/74/f627742ee4bb8c30f4fcce900a26ed28.jpg" alt="License" height="250">
+    <img src="https://i.pinimg.com/736x/73/75/89/7375890e8632e5d0a07bf8436d6ee567.jpg" alt="Status" height="250">
   </div>
 </div>
 <div align="center">
