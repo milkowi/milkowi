@@ -21,3 +21,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317calalcpphzbmho4qtpuue7c4u&cover_image=true&theme=default&show_offline=true&background_color=151712&interchange=true&profanity=true&hide_remaster=false&bar_color=ccdcc1&bar_color_cover=true" alt="Spotify Profile">
   </a>
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=milkowi&color=green" alt="✩₊˚.⋆☾⋆⁺₊✧" />
+</div>
