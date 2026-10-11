@@ -21,7 +21,11 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317calalcpphzbmho4qtpuue7c4u&cover_image=true&theme=default&show_offline=true&background_color=151712&interchange=true&profanity=true&hide_remaster=false&bar_color=ccdcc1&bar_color_cover=true" alt="Spotify Profile">
   </a>
 </div>
-
+<div align="center">
+  <img scr="https://i.pinimg.com/736x/df/1c/ab/df1cab93928f45208aaec2559f893a8b.jpg" height='100'>
+  <img scr="https://i.pinimg.com/736x/4f/f8/e1/4ff8e1aad709a3ada9628df089f50246.jpg" height='100'>
+  <img scr="https://i.pinimg.com/736x/65/08/2b/65082b0aee91a0562335061d882012b6.jpg" height='100'>
+</div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=milkowi&color=green" alt="✩₊˚.⋆☾⋆⁺₊✧" />
 </div>
