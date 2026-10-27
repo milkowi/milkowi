@@ -32,9 +32,9 @@
   ✧ ೃ༄*ੈ✩
 </p>
 <p align="center">
-  <img src="https://i.pinimg.com/736x/8e/9d/ae/8e9daec12cf48dd27614fbdcc5b462b3.jpg"  width=333 height=333>
-  <img src="https://i.pinimg.com/736x/6f/f9/f7/6ff9f75982b45e914e4e2420419d6321.jpg"  width=333 height=333>
-  <img src="https://i.pinimg.com/736x/65/45/d0/6545d0c56ce78865429d808467ff217c.jpg"  width=333 height=333>
+  <img src="https://i.pinimg.com/736x/8e/9d/ae/8e9daec12cf48dd27614fbdcc5b462b3.jpg"  width=250 height=250>
+  <img src="https://i.pinimg.com/736x/6f/f9/f7/6ff9f75982b45e914e4e2420419d6321.jpg"  width=250 height=250>
+  <img src="https://i.pinimg.com/736x/65/45/d0/6545d0c56ce78865429d808467ff217c.jpg"  width=250 height=250>
 </p>
 <p align="center">
   <a href="milkowi.atabook.org">
