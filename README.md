@@ -77,5 +77,8 @@
         <p align="center">
             <a href="https://github.com/nyaromi"> 𝒎𐒋 α𝜼𝓰ꫀׄℓ ༘ </a>
         </p>
+        <p align="center">
+          <img src="https://komarev.com/ghpvc/?username=milkowi&style=flat-square&color=red" >
+        </p>
     </div>
 <br clear="all" />
