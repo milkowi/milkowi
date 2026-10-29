@@ -64,7 +64,6 @@
             <img src="https://64.media.tumblr.com/222c0aad8346037c42eb9fd05953df58/85ef8ee6be074337-90/s100x200/babbb8e47b23145cae914ca4eeaa5ff78348963b.gifv">
             <img src="https://64.media.tumblr.com/58a2d0a56f4dd8820c51c3e13ff3fc60/8d1ef8405263db0e-ae/s250x400/09a0f4bc7e0044c8b64b8bcd84fae4ed1575ab53.pnj"width=100>
             <img src="https://64.media.tumblr.com/6376340a310c537871429047c67b8842/85ef8ee6be074337-e3/s100x200/7a63432aa690f1513cadaa08f4d3d084c0ca09fe.gifv">
-            <img src="https://64.media.tumblr.com/e1f12b1da94bc0af40d90633cc739fca/8d1ef8405263db0e-96/s250x400/b5bdf4513f09d4e4257296b5c966e64db029ae77.pnj"width=100>
         </p>
         <p align="center">
             <a href="milkowi.atabook.org" style="color: #8B0000;">
