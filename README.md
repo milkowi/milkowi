@@ -74,5 +74,8 @@
                 tgc
             </a>
         </p>
+        <p align="center">
+            <a href="https://github.com/nyaromi"> 𝒎𐒋 α𝜼𝓰ꫀׄℓ ༘ </a>
+        </p>
     </div>
 <br clear="all" />
